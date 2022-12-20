@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bonaccicephars
+- 👋 Hi, I’m @cepharsbonacci
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Github
